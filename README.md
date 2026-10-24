@@ -19,44 +19,29 @@
 > (`[private link removed]`), walked through end-to-end during a full hunter account: signup → 8-step
 > personalization → split forging → dashboard → training → nutrition → Kato → ranked verdicts.
 
-<table>
-  <tr>
-    <td align="center"><img src="./shots/onboarding-split.png" alt="Personalization — split forging" width="230"><br><strong>SPLIT FORGING</strong></td>
-    <td align="center"><img src="./shots/gate-dashboard.png" alt="Gate dashboard" width="230"><br><strong>GATE · DAILY HUD</strong></td>
-    <td align="center"><img src="./shots/gate-missions.png" alt="Missions — boss arc" width="230"><br><strong>BOSS ARC · LOOT</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./shots/training-library.png" alt="Training library" width="230"><br><strong>10-PLAN LIBRARY</strong></td>
-    <td align="center"><img src="./shots/training-plan.png" alt="Plan detail — sets and reps" width="230"><br><strong>SETS · REPS · XP</strong></td>
-    <td align="center"><img src="./shots/exercise-form.png" alt="Exercise form guide" width="230"><br><strong>FORM GUIDE</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./shots/nutrition-targets.png" alt="AI macro targets" width="230"><br><strong>AI MACRO TARGETS</strong></td>
-    <td align="center"><img src="./shots/nutrition-budged.png" alt="Nutrition budget" width="230"><br><strong>FUEL BUDGET · MACROS</strong></td>
-    <td align="center"><img src="./shots/kato-coach.png" alt="Kato — The Iron" width="230"><br><strong>KATO · THE IRON</strong></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="./shots/profile-dossier.png" alt="Player dossier" width="230"><br><strong>PLAYER DOSSIER</strong></td>
-    <td align="center"><img src="./shots/leaderboard.png" alt="Global leaderboard" width="230"><br><strong>GLOBAL RANK</strong></td>
-    <td align="center"><img src="./shots/body-scan.png" alt="AI body scan" width="230"><br><strong>AI BODY SCAN</strong></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./shots/boss-encounter.png" alt="Gamified workout mission — boss encounter and training rewards" width="512" />
+  <br />
+  <strong>GATE · BOSS ENCOUNTER</strong>
+</p>
 
-<sub>Screens: gate dashboard · missions &amp; boss arc · split forging · plan library · set/rep detail · exercise form guide · AI macro targets · fuel budget · Kato coach · player dossier · global leaderboard · 3-pose body scan</sub>
+<p align="center">
+  <img src="./shots/kato-coach.png" alt="Kato — the specialized AI training coach concept" width="512" />
+  <br />
+  <strong>KATO · THE IRON · TRAINING-FOCUSED AI</strong>
+</p>
 
 ---
 
 ## Why I Built This
 
-I finally wanted to build **the best all-in-one, smooth gym experience there is**.
+I was already talking to AI about my training all the time—asking about programming, technique, and what to change next. The conversations helped, but they lived in a generic chat, separate from the workouts and progress I was trying to improve.
 
-Every time I trained, I was bouncing between four or five different apps that didn't talk to each other: one clunky tracker for sets and reps, a bloated calorie app for macros, the iPhone Notes app for PRs, and camera roll folders full of progress photos with zero objective feedback. Worse, almost every fitness app feels like filling out spreadsheets between sets.
+So I kept coming back to one question: **If I’m already using AI to train, why not build a specialized AI agent for training?**
 
-**Kizen (Project Ascension)** is my answer to that:
+That question became Kizen. I wanted a training-focused agent—not a general chatbot—with the gym context around it: the plan I follow, the lifts I log, and the nutrition and progress I track. **Kato** is my take on that specialized coach, inside the same product as the rest of my training.
 
-- **Effortless & Fun to Use**: Zero-scroll dark HUD surfaces designed for one-handed use in the middle of a workout. No spreadsheet fatigue, no clutter, no wasted taps.
-- **Absolute Customization & Personalization**: From your weekly split (`PPL`, `Upper / Lower`, `Arnold`, `Full Body`, or custom schedules) down to every single exercise slot, macro target, and bodyweight-calibrated strength standard—the entire system adapts 100% around your body, equipment, and goals.
-- **Real Telemetry, Not Gimmicks**: Everything you log—your lifts, your nutrition, and your physique scans—feeds into one unified progression engine and a 14-day Ranked Verdict (`E` → `SSS`).
+The goal is simple: bring the training conversation and the training system together in an app I can actually use between sets.
 
 ---
 
