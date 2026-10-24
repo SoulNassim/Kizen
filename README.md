@@ -19,67 +19,30 @@
 > (`[private link removed]`), walked through end-to-end during a full hunter account: signup → 8-step
 > personalization → split forging → dashboard → training → nutrition → Kato → ranked verdicts.
 
-<div style="display:flex; justify-content:center; gap:14px; flex-wrap:wrap; margin:18px 0 6px 0;">
-  <div style="text-align:center;">
-    <img src="./shots/onboarding-split.png" alt="Personalization — split forging" width="230" />
-    <div style="font-family:ui-monospace,monospace; font-size:11px; letter-spacing:1px; color:#fb7185; margin-top:6px;">SPLIT FORGING</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="./shots/gate-dashboard.png" alt="Gate dashboard" width="230" />
-    <div style="font-family:ui-monospace,monospace; font-size:11px; letter-spacing:1px; color:#fb7185; margin-top:6px;">GATE · DAILY HUD</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="./shots/gate-missions.png" alt="Missions — boss arc" width="230" />
-    <div style="font-family:ui-monospace,monospace; font-size:11px; letter-spacing:1px; color:#fb7185; margin-top:6px;">BOSS ARC · LOOT</div>
-  </div>
-</div>
+<table>
+  <tr>
+    <td align="center"><img src="./shots/onboarding-split.png" alt="Personalization — split forging" width="230"><br><strong>SPLIT FORGING</strong></td>
+    <td align="center"><img src="./shots/gate-dashboard.png" alt="Gate dashboard" width="230"><br><strong>GATE · DAILY HUD</strong></td>
+    <td align="center"><img src="./shots/gate-missions.png" alt="Missions — boss arc" width="230"><br><strong>BOSS ARC · LOOT</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./shots/training-library.png" alt="Training library" width="230"><br><strong>10-PLAN LIBRARY</strong></td>
+    <td align="center"><img src="./shots/training-plan.png" alt="Plan detail — sets and reps" width="230"><br><strong>SETS · REPS · XP</strong></td>
+    <td align="center"><img src="./shots/exercise-form.png" alt="Exercise form guide" width="230"><br><strong>FORM GUIDE</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./shots/nutrition-targets.png" alt="AI macro targets" width="230"><br><strong>AI MACRO TARGETS</strong></td>
+    <td align="center"><img src="./shots/nutrition-budged.png" alt="Nutrition budget" width="230"><br><strong>FUEL BUDGET · MACROS</strong></td>
+    <td align="center"><img src="./shots/kato-coach.png" alt="Kato — The Iron" width="230"><br><strong>KATO · THE IRON</strong></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="./shots/profile-dossier.png" alt="Player dossier" width="230"><br><strong>PLAYER DOSSIER</strong></td>
+    <td align="center"><img src="./shots/leaderboard.png" alt="Global leaderboard" width="230"><br><strong>GLOBAL RANK</strong></td>
+    <td align="center"><img src="./shots/body-scan.png" alt="AI body scan" width="230"><br><strong>AI BODY SCAN</strong></td>
+  </tr>
+</table>
 
-<div style="display:flex; justify-content:center; gap:14px; flex-wrap:wrap; margin:6px 0 18px 0;">
-  <div style="text-align:center;">
-    <img src="./shots/training-library.png" alt="Training library" width="230" />
-    <div style="font-family:ui-monospace,monospace; font-size:11px; letter-spacing:1px; color:#fb7185; margin-top:6px;">10-PLAN LIBRARY</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="./shots/training-plan.png" alt="Plan detail — sets and reps" width="230" />
-    <div style="font-family:ui-monospace,monospace; font-size:11px; letter-spacing:1px; color:#fb7185; margin-top:6px;">SETS · REPS · XP</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="./shots/exercise-form.png" alt="Exercise form guide" width="230" />
-    <div style="font-family:ui-monospace,monospace; font-size:11px; letter-spacing:1px; color:#fb7185; margin-top:6px;">FORM GUIDE</div>
-  </div>
-</div>
-
-<div style="display:flex; justify-content:center; gap:14px; flex-wrap:wrap; margin:18px 0 6px 0;">
-  <div style="text-align:center;">
-    <img src="./shots/nutrition-targets.png" alt="AI macro targets" width="230" />
-    <div style="font-family:ui-monospace,monospace; font-size:11px; letter-spacing:1px; color:#fb7185; margin-top:6px;">AI MACRO TARGETS</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="./shots/nutrition-budged.png" alt="Nutrition budget" width="230" />
-    <div style="font-family:ui-monospace,monospace; font-size:11px; letter-spacing:1px; color:#fb7185; margin-top:6px;">FUEL BUDGET · MACROS</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="./shots/kato-coach.png" alt="Kato — The Iron" width="230" />
-    <div style="font-family:ui-monospace,monospace; font-size:11px; letter-spacing:1px; color:#fb7185; margin-top:6px;">KATO · THE IRON</div>
-  </div>
-</div>
-
-<div style="display:flex; justify-content:center; gap:14px; flex-wrap:wrap; margin:6px 0 24px 0;">
-  <div style="text-align:center;">
-    <img src="./shots/profile-dossier.png" alt="Player dossier" width="230" />
-    <div style="font-family:ui-monospace,monospace; font-size:11px; letter-spacing:1px; color:#fb7185; margin-top:6px;">PLAYER DOSSIER</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="./shots/leaderboard.png" alt="Global leaderboard" width="230" />
-    <div style="font-family:ui-monospace,monospace; font-size:11px; letter-spacing:1px; color:#fb7185; margin-top:6px;">GLOBAL RANK</div>
-  </div>
-  <div style="text-align:center;">
-    <img src="./shots/body-scan.png" alt="AI body scan" width="230" />
-    <div style="font-family:ui-monospace,monospace; font-size:11px; letter-spacing:1px; color:#fb7185; margin-top:6px;">AI BODY SCAN</div>
-  </div>
-</div>
-
-<sub style="color:#52525b;">Screens: gate dashboard · missions &amp; boss arc · split forging · plan library · set/rep detail · exercise form guide · AI macro targets · fuel budget · Kato coach · player dossier · global leaderboard · 3-pose body scan</sub>
+<sub>Screens: gate dashboard · missions &amp; boss arc · split forging · plan library · set/rep detail · exercise form guide · AI macro targets · fuel budget · Kato coach · player dossier · global leaderboard · 3-pose body scan</sub>
 
 ---
 
