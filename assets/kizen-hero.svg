@@ -40,7 +40,7 @@
 
   <!-- Eyebrow -->
   <text x="600" y="196" text-anchor="middle" fill="#fb7185" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" font-weight="800" letter-spacing="6">
-    KIZEN · PROJECT ASCENSION
+    KIZEN Â· PROJECT ASCENSION
   </text>
 
   <!-- Main Headline -->
@@ -56,19 +56,19 @@
   <!-- 4 Telemetry Pills -->
   <g transform="translate(150, 336)">
     <rect x="0" y="0" width="210" height="52" rx="14" fill="#09090b" stroke="#27272a" stroke-width="1.5" />
-    <text x="105" y="23" text-anchor="middle" fill="#71717a" font-family="ui-monospace, monospace" font-size="10" font-weight="800" letter-spacing="2">01 · IRON LOG</text>
+    <text x="105" y="23" text-anchor="middle" fill="#71717a" font-family="ui-monospace, monospace" font-size="10" font-weight="800" letter-spacing="2">01 Â· IRON LOG</text>
     <text x="105" y="40" text-anchor="middle" fill="#f4f4f5" font-family="system-ui, sans-serif" font-size="13" font-weight="800">Custom Splits &amp; PR Forge</text>
 
     <rect x="230" y="0" width="210" height="52" rx="14" fill="#09090b" stroke="#27272a" stroke-width="1.5" />
-    <text x="335" y="23" text-anchor="middle" fill="#71717a" font-family="ui-monospace, monospace" font-size="10" font-weight="800" letter-spacing="2">02 · AI NUTRITION</text>
+    <text x="335" y="23" text-anchor="middle" fill="#71717a" font-family="ui-monospace, monospace" font-size="10" font-weight="800" letter-spacing="2">02 Â· AI NUTRITION</text>
     <text x="335" y="40" text-anchor="middle" fill="#f4f4f5" font-family="system-ui, sans-serif" font-size="13" font-weight="800">1-Tap Meal &amp; Macro Scan</text>
 
     <rect x="460" y="0" width="210" height="52" rx="14" fill="#09090b" stroke="#27272a" stroke-width="1.5" />
-    <text x="565" y="23" text-anchor="middle" fill="#71717a" font-family="ui-monospace, monospace" font-size="10" font-weight="800" letter-spacing="2">03 · BIOMETRICS</text>
+    <text x="565" y="23" text-anchor="middle" fill="#71717a" font-family="ui-monospace, monospace" font-size="10" font-weight="800" letter-spacing="2">03 Â· BIOMETRICS</text>
     <text x="565" y="40" text-anchor="middle" fill="#f4f4f5" font-family="system-ui, sans-serif" font-size="13" font-weight="800">3-Pose Physique Telemetry</text>
 
     <rect x="690" y="0" width="210" height="52" rx="14" fill="#09090b" stroke="#27272a" stroke-width="1.5" />
-    <text x="795" y="23" text-anchor="middle" fill="#fb7185" font-family="ui-monospace, monospace" font-size="10" font-weight="800" letter-spacing="2">04 · RANKED ELO</text>
+    <text x="795" y="23" text-anchor="middle" fill="#fb7185" font-family="ui-monospace, monospace" font-size="10" font-weight="800" letter-spacing="2">04 Â· RANKED ELO</text>
     <text x="795" y="40" text-anchor="middle" fill="#f4f4f5" font-family="system-ui, sans-serif" font-size="13" font-weight="800">Kato AI &amp; 14-Day Verdicts</text>
   </g>
 </svg>

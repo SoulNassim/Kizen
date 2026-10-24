@@ -7,7 +7,7 @@
     <text x="20" y="34" fill="#fb7185" font-family="ui-monospace, monospace" font-size="10" font-weight="800" letter-spacing="2">STRENGTH FORGE</text>
     <text x="20" y="60" fill="#ffffff" font-family="system-ui, sans-serif" font-size="18" font-weight="900">Olympic Barbell HUD</text>
     <text x="20" y="84" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12">Live per-side plate math, 1RM Epley</text>
-    <text x="20" y="102" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12">estimator &amp; ×BW strength tiers.</text>
+    <text x="20" y="102" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12">estimator &amp; Ã—BW strength tiers.</text>
     <!-- Mini Barbell Schematic -->
     <rect x="20" y="128" width="230" height="62" rx="10" fill="#050507" stroke="#27272a" />
     <rect x="34" y="157" width="38" height="4" fill="#52525b" />
@@ -15,10 +15,10 @@
     <rect x="79" y="143" width="8" height="32" rx="1.5" fill="#e4e4e7" />
     <rect x="89" y="145" width="8" height="28" rx="1.5" fill="#e4e4e7" />
     <rect x="99" y="149" width="7" height="20" rx="1.5" fill="#71717a" />
-    <text x="122" y="156" fill="#f4f4f5" font-family="ui-monospace, monospace" font-size="11" font-weight="800">2×20 + 10 kg/side</text>
-    <text x="122" y="172" fill="#71717a" font-family="ui-monospace, monospace" font-size="10">120 KG · 1.60× BW</text>
+    <text x="122" y="156" fill="#f4f4f5" font-family="ui-monospace, monospace" font-size="11" font-weight="800">2Ã—20 + 10 kg/side</text>
+    <text x="122" y="172" fill="#71717a" font-family="ui-monospace, monospace" font-size="10">120 KG Â· 1.60Ã— BW</text>
     <rect x="20" y="210" width="230" height="40" rx="10" fill="#18181b" />
-    <text x="135" y="235" text-anchor="middle" fill="#e4e4e7" font-family="ui-monospace, monospace" font-size="11" font-weight="800">D · C · B · A · S STANDARDS</text>
+    <text x="135" y="235" text-anchor="middle" fill="#e4e4e7" font-family="ui-monospace, monospace" font-size="11" font-weight="800">D Â· C Â· B Â· A Â· S STANDARDS</text>
   </g>
 
   <!-- Card 2: Custom Splits -->
@@ -29,19 +29,19 @@
     <text x="20" y="84" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12">PPL, Upper/Lower, Arnold, Full Body</text>
     <text x="20" y="102" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12">or custom days with 800+ exercises.</text>
     <rect x="20" y="128" width="230" height="36" rx="8" fill="#18181b" stroke="#3f3f46" />
-    <text x="34" y="150" fill="#ffffff" font-family="system-ui, sans-serif" font-size="12" font-weight="800">Push Day · Chest &amp; Delts</text>
+    <text x="34" y="150" fill="#ffffff" font-family="system-ui, sans-serif" font-size="12" font-weight="800">Push Day Â· Chest &amp; Delts</text>
     <text x="236" y="150" text-anchor="end" fill="#fb7185" font-family="ui-monospace, monospace" font-size="10" font-weight="800">SWAP</text>
     <rect x="20" y="172" width="230" height="36" rx="8" fill="#050507" stroke="#27272a" />
-    <text x="34" y="194" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Pull Day · Lats &amp; Upper Back</text>
+    <text x="34" y="194" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Pull Day Â· Lats &amp; Upper Back</text>
     <rect x="20" y="216" width="230" height="36" rx="8" fill="#050507" stroke="#27272a" />
-    <text x="34" y="238" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Legs · Quads, Glutes &amp; Hams</text>
+    <text x="34" y="238" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12" font-weight="700">Legs Â· Quads, Glutes &amp; Hams</text>
   </g>
 
   <!-- Card 3: Unified Dossier -->
   <g transform="translate(612, 24)">
     <rect width="270" height="272" rx="16" fill="#09090b" stroke="#27272a" stroke-width="1.2" />
     <text x="20" y="34" fill="#fb7185" font-family="ui-monospace, monospace" font-size="10" font-weight="800" letter-spacing="2">UNIFIED DOSSIER</text>
-    <text x="20" y="60" fill="#ffffff" font-family="system-ui, sans-serif" font-size="18" font-weight="900">0100 Muscle Telemetry</text>
+    <text x="20" y="60" fill="#ffffff" font-family="system-ui, sans-serif" font-size="18" font-weight="900">0â€“100 Muscle Telemetry</text>
     <text x="20" y="84" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12">One cohesive HUD uniting Rank Elo,</text>
     <text x="20" y="102" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12">lift ratios, and 6-axis body scans.</text>
     <!-- Telemetry Bars -->
@@ -71,7 +71,7 @@
   <!-- Card 4: Kato & Verdicts -->
   <g transform="translate(906, 24)">
     <rect width="270" height="272" rx="16" fill="#09090b" stroke="#27272a" stroke-width="1.2" />
-    <text x="20" y="34" fill="#fb7185" font-family="ui-monospace, monospace" font-size="10" font-weight="800" letter-spacing="2">KATO · THE IRON</text>
+    <text x="20" y="34" fill="#fb7185" font-family="ui-monospace, monospace" font-size="10" font-weight="800" letter-spacing="2">KATO Â· THE IRON</text>
     <text x="20" y="60" fill="#ffffff" font-family="system-ui, sans-serif" font-size="18" font-weight="900">14-Day Ranked Verdicts</text>
     <text x="20" y="84" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12">One relentless AI coach with full</text>
     <text x="20" y="102" fill="#a1a1aa" font-family="system-ui, sans-serif" font-size="12">context of your lifts, scans &amp; diet.</text>
