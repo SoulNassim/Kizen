@@ -15,27 +15,29 @@
 
 ## Inside The Hunter UI
 
-> 🔓 **Live product, captured first-hand** — these are real screens from the closed-alpha build
-> (`[private link removed]`), walked through end-to-end during a full hunter account: signup → 8-step
-> personalization → split forging → dashboard → training → nutrition → Kato → ranked verdicts.
+> 📱 **Real mobile captures from the live Kizen build** (`[private link removed]`): each image is the complete
+> 430 × 932 mobile viewport at 2× resolution (860 × 1,864 px)—not a landscape crop placed inside a phone frame.
+> The Cycle 18 rank reveal is the app's feature-tour preview, not a personal evaluation result.
 
 <p align="center">
-  <img src="./shots/phone-gate.png" alt="Kizen Gate boss encounter shown inside a complete phone mockup" width="512" />
+  <img src="./shots/phone-gate.png" alt="Full-screen Kizen mobile Gate dashboard with workout, weekly progress, missions, and leaderboard cards" width="400" />
   <br />
-  <strong>01 · THE GATE — BOSS ENCOUNTER</strong>
+  <strong>01 · THE GATE — DAILY COMMAND SCREEN</strong>
 </p>
 
 <p align="center">
-  <img src="./shots/phone-training.png" alt="Kizen illustrated training-plan library inside a complete phone mockup" width="512" />
+  <img src="./shots/phone-ranked-evaluation.png" alt="Full-screen Kizen mobile preview of the 14-day ranked verdict, showing a sample A-to-SS rank reveal" width="400" />
   <br />
-  <strong>02 · TRAINING — FIND YOUR ARC</strong>
+  <strong>02 · RANKED EVALUATION — CYCLE 18 PREVIEW</strong>
 </p>
 
 <p align="center">
-  <img src="./shots/phone-kato.png" alt="Kato AI coach introduction inside a complete phone mockup" width="512" />
+  <img src="./shots/phone-training.png" alt="Full-screen Kizen mobile Upper / Lower training-plan detail with exercises and sets" width="400" />
   <br />
-  <strong>03 · KATO — THE IRON</strong>
+  <strong>03 · TRAINING — UPPER / LOWER ARC</strong>
 </p>
+
+**Showcase ranking:** Gate first for the clearest product hook; ranked verdict next for Kizen’s distinctive progression system; workout detail third for the practical training depth.
 
 ---
 
