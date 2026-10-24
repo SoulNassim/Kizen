@@ -20,15 +20,21 @@
 > personalization → split forging → dashboard → training → nutrition → Kato → ranked verdicts.
 
 <p align="center">
-  <img src="./shots/boss-encounter.png" alt="Gamified workout mission — boss encounter and training rewards" width="512" />
+  <img src="./shots/phone-gate.png" alt="Kizen Gate boss encounter shown inside a complete phone mockup" width="512" />
   <br />
-  <strong>GATE · BOSS ENCOUNTER</strong>
+  <strong>01 · THE GATE — BOSS ENCOUNTER</strong>
 </p>
 
 <p align="center">
-  <img src="./shots/kato-coach.png" alt="Kato — the specialized AI training coach concept" width="512" />
+  <img src="./shots/phone-training.png" alt="Kizen illustrated training-plan library inside a complete phone mockup" width="512" />
   <br />
-  <strong>KATO · THE IRON · TRAINING-FOCUSED AI</strong>
+  <strong>02 · TRAINING — FIND YOUR ARC</strong>
+</p>
+
+<p align="center">
+  <img src="./shots/phone-kato.png" alt="Kato AI coach introduction inside a complete phone mockup" width="512" />
+  <br />
+  <strong>03 · KATO — THE IRON</strong>
 </p>
 
 ---
