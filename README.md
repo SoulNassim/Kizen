@@ -15,7 +15,7 @@
 
 ## Inside The Hunter UI
 
-> 📱 **Real mobile captures from the live Kizen build** (`[private link removed]`): each image is the complete
+> 📱 **Real mobile captures from the live Kizen build**: each image is the complete
 > 430 × 932 mobile viewport at 2× resolution (860 × 1,864 px)—not a landscape crop placed inside a phone frame.
 > The Cycle 18 rank reveal is the app's feature-tour preview, not a personal evaluation result.
 
